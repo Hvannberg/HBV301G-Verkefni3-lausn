@@ -8,9 +8,9 @@
     <option name="activeLocationIds" />
     <option name="locations">
       <list>
-        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">(bundled)</ConfigurationLocation>
-        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">(bundled)</ConfigurationLocation>
-        <ConfigurationLocation id="e506e51f-5af2-45f7-85ba-fb0f1be518cc" type="LOCAL_FILE" scope="All" description="HBV201G">$PROJECT_DIR$/../../../Checkstyle og Spotbugs/checkstyle-tol101g.xml</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-sun-checks" type="BUNDLED" scope="All" description="Sun Checks">bundled-sun-checks</ConfigurationLocation>
+        <ConfigurationLocation id="bundled-google-checks" type="BUNDLED" scope="All" description="Google Checks">bundled-google-checks</ConfigurationLocation>
+        <ConfigurationLocation id="e506e51f-5af2-45f7-85ba-fb0f1be518cc" type="LOCAL_FILE" scope="All" description="HBV201G">$USER_HOME$/Checkstyle og Spotbugs/checkstyle-tol101g.xml</ConfigurationLocation>
       </list>
     </option>
   </component>

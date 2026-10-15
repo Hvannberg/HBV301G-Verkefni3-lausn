@@ -14,8 +14,6 @@ Við yfirferð var einnig stuðst við [verkefnislýsingu ársins](Heimildir/Ver
 
 Tölulegir grunnar eru viðmið í COS-dæminu en ekki nýjar mælingar. Tillögur að mæliaðferðum og afmörkun MVP þarf að staðfesta með hagsmunaaðilum.
 
-**Rekjanleiki:** Uppruni efnis, aðlaganir og viðbætur eru skráð í [REKJANLEIKI.md](REKJANLEIKI.md).
-
 ## Efnisyfirlit
 
 1. [Viðskiptamarkmið](#1-viðskiptamarkmið)
