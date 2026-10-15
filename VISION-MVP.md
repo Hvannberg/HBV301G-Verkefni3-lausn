@@ -8,9 +8,7 @@
 
 **Git repository:** https://github.com/Hvannberg/HBV301G-Verkefni3-lausn
 
-Þetta eru drög að sýnislausn fyrir COS í HBV301G 2026 samkvæmt template-i. Efnið byggir á  [verkefni 1](https://github.com/Hvannberg/HBV301G-2026-COS) og [verkefni 2](https://github.com/Hvannberg/HBV301G-Verkefni2-lausn).
-
-Við yfirferð var einnig stuðst við [verkefnislýsingu ársins](Heimildir/Verkefni%203%20Viðskiptamarkmið,%20sýn%20og%20umfang.html), kennsluefni 6.1 og [endurgjöf úr yfirferð verkefnis 3](Heimildir/9.2%20Yfirferð%20á%20verkefni%203.html), sem eru varðveitt í Heimildir.
+Þetta eru drög að sýnislausn fyrir COS í HBV301G 2026 samkvæmt template-i. Efnið byggir á viðauka C um COS-kerfið í bók Wiegers og Beatty, auk [verkefnis 1](https://github.com/Hvannberg/HBV301G-2026-COS) og [verkefnis 2](https://github.com/Hvannberg/HBV301G-Verkefni2-lausn).
 
 Tölulegir grunnar eru viðmið í COS-dæminu en ekki nýjar mælingar. Tillögur að mæliaðferðum og afmörkun MVP þarf að staðfesta með hagsmunaaðilum.
 
